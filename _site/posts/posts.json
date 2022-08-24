@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2022-08-23T20:58:39+02:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2022-08-24-mi-segundo-post-de-prueba/",
+    "title": "Mi segundo post de prueba",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-08-24",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-08-24T13:38:30+02:00",
+    "input_file": "mi-segundo-post-de-prueba.knit.md"
   }
 ]
